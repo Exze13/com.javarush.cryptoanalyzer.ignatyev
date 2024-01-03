@@ -99,3 +99,5 @@ Q.idea/sonarlint/securityhotspotstore/4/1/415ce8be5788e4a3b9fad4d1c64118c0e07578
 Q.idea/sonarlint/securityhotspotstore/0/b/0b952a9c9161a871564505a0078b5e130e7a3d35,6\5\65cbb3245600f4ff9a95928a4fb14f134b1cc58e
 Å
 Q.idea/sonarlint/securityhotspotstore/f/f/ffce30a4275558cb523561dded009842ab3ab214,1\b\1b259c2d7f8d4cf58d6319fad1dad763190f4221
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
